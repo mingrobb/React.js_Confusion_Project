@@ -276,6 +276,19 @@
       "message": "afadsfds",
       "date": "2017-12-04T09:41:49.890Z",
       "id": 1
+    },
+    {
+      "feedback": {
+        "firstname": "Weiming",
+        "lastname": "Chen",
+        "telnum": "7099865675",
+        "email": "wc5868@mun.ca",
+        "agree": true,
+        "contactType": "Tel.",
+        "message": "hi"
+      },
+      "date": "2019-06-25T18:53:08.599Z",
+      "id": 2
     }
   ]
 }
